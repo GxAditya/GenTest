@@ -36,7 +36,7 @@ A modern quiz/test generator application that uses Gemini AI to create education
 1. Clone the repository
 ```bash
 git clone https://github.com/GxAditya/GenTest.git
-cd questionbuilder-main
+cd GenTest
 ```
 
 2. Install frontend dependencies
